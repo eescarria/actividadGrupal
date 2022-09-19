@@ -1,0 +1,2 @@
+# actividadGrupal
+Repaso informática
